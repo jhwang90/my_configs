@@ -1,0 +1,26 @@
+"*":
+  core:
+    disabledPackages: [
+      "atom-color-highlight"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    fontFamily: "menlo"
+    fontSize: 13
+    invisibles: {}
+    lineHeight: 1.45
+    preferredLineLength: 80
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "3132c276-766d-5085-866a-6a9d15f7f151"
+  linter:
+    showErrorPanel: false
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
+".angular.html.text":
+  editor:
+    preferredLineLength: 120
